@@ -2,7 +2,7 @@
 A Simple Student Management System Developed for Educational Purpose using Python tkinter module. Feel free to make changes based on your requirements.
 And if you like this project then ADD a STAR star to this project point_up_2
 
-# Features  
+### Features  
 1.Manage Students (Add, Update and Delete)  
 2.Search Students (using their serial number, name, class)  
 
